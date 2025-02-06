@@ -1,4 +1,4 @@
-import ImgOne from '../assets/images/gallery/image-1.jpg'
+import ImgOne from '../assets/images/gallery/image-1.webp'
 import ImgEleven from '../assets/images/gallery/image-11.webp'
 import ImgTwelve from '../assets/images/gallery/image-12.webp'
 import ImgThirteen from '../assets/images/gallery/image-13.webp'
